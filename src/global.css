@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  @apply bg-indigo-100 text-zinc-500 font-sans overflow-x-hidden;
+}
